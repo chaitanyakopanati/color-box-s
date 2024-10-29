@@ -1,0 +1,14 @@
+#resultclr{
+    border: 1px solid;
+    width: 500px;
+    height: 500px;
+    margin-top: 50px;
+    
+}
+/* body{
+    background-color: red;
+    
+} */
+body:hover{
+    color: aqua;
+}
